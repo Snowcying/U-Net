@@ -1,0 +1,72 @@
+Bladder 膀胱
+CTV
+GTV
+Intestines 肠
+MM
+patient
+Rectum 直肠
+Signoid
+Colon 结肠
+Corpus-cavernosum 海绵体
+CTV1
+Femoral-head-L 股骨头
+Femoral-head-R 股骨头
+GTV-ln
+GTV-T
+ORBONE
+Pelvis 骨盆
+Prostate 前列腺
+PTV
+PV-Spinal-cord 脊髓
+PVCTV1
+PVGTV-ln
+PVGTV-T
+Seminal-vesicle 精囊
+Small-bowel 小肠
+Spinal-cord 脊髓
+Utethra 尿道
+hole
+OR
+Patient
+Testis-L  睾丸
+PCTV1
+Uterus 子宫
+Vagina 阴道
+PVSpinal-cord 脊髓
+Testis-R 睾丸
+CTV1-PV
+GTV-ln-PV
+GTV-T-PV
+PenileBulb 阴茎球
+Testis 睾丸
+Pelvic-Bone 骨盆骨
+PV-CTV1
+PV-GTV-ln
+PV-GTV-T
+PV-Spinal-cord-pv
+SmallBowel 小便
+Spinal-Cord 脊髓
+Small-Bowel 小便
+SpinalCord 脊髓
+bone 骨头
+FemoralJoint_L 股关节
+FemoralJoint_R 股关节
+Air
+Body
+PelvicBone 骨盆骨
+Cervix-uteri 子宫颈
+CTV1-pv
+GTV-ln-pv
+GTV-T-pv
+viginal      vaginal阴道
+PGTV-ln
+PGTV-T
+FemoralHead_L  股骨头
+FemoralHead_R  股骨头
+GTV-pv
+GTVn-pv
+GTVn
+Spinal-cord-pv  脊髓
+CTV-pv
+GTVln-pv
+GTVln
