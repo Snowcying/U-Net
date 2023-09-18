@@ -14,7 +14,7 @@ def out(list,file):
     f1.close()
 
 ans = [train,test]
-date=str(datetime.datetime.now().strftime('%Y-%m-%d-%X')).replace(":","-")
+date=str(datetime.datetime.now().strftime('%Y-%m-%d-%x')).replace(":","-")
 filename = date+'_train.txt'
 out(ans,'./'+filename)
 # print(train)

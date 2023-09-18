@@ -97,7 +97,7 @@ dl_test = DataLoader(test_data, batch_size=batch_size, shuffle=True)
 
 
 my_model = AttentionUnet(in_channels=1,num_classes=5)
-state_dict = torch.load('./checkpoint/X/18_train_mIou_0.924_test_mIou_0.579.pth')
+state_dict = torch.load('./checkpoint/x/18_train_mIou_0.924_test_mIou_0.579.pth')
 my_model.load_state_dict(state_dict)
 my_model=my_model.to('cuda')
 

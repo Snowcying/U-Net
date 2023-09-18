@@ -1,7 +1,10 @@
-/checkpoint/X/
-/checkpoint/Z/
+/checkpoint/**
 /util/img/
 /util/image/
 /util/dicom/
 /util/dicom_to_img/
 /image/
+/output
+*.png
+*.pth
+*.zip

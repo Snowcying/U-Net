@@ -1,0 +1,151 @@
+C:\Users\chenxinyi\.conda\envs\pt\python.exe C:\Users\chenxinyi\Desktop\code\code\niiToImg.py
+viginal: 1 次
+patient: 15 次
+image: 18 次
+hole: 4 次
+bone: 1 次
+Vagina: 1 次
+Utethra: 15 次
+Uterus: 3 次
+Testis-R: 1 次
+Testis-L: 2 次
+Testis: 3 次
+SpinalCord: 17 次
+Spinal-cord-pv: 1 次
+SmallBowel: 17 次
+Signoid: 1 次
+Seminal-vesicle: 11 次
+Rectum: 1 次
+Prostate: 12 次
+PenileBulb: 9 次
+Pelvis: 17 次
+Patient: 2 次
+PVSpinal-cord: 1 次
+PVGTV-ln: 7 次
+PVGTV-T: 6 次
+PVCTV1: 6 次
+PV-Spinal-cord-pv: 1 次
+PV-Spinal-cord: 5 次
+PV-GTV-ln: 1 次
+PV-GTV-T: 2 次
+PV-CTV1: 1 次
+PTV: 3 次
+PGTV-ln: 2 次
+PGTV-T: 2 次
+PCTV1: 3 次
+ORBONE: 1 次
+OR: 1 次
+MM: 10 次
+Intestines: 1 次
+GTVn-pv: 1 次
+GTVn: 1 次
+GTVln-pv: 1 次
+GTVln: 1 次
+GTV-pv: 2 次
+GTV-ln-pv: 2 次
+GTV-ln-PV: 1 次
+GTV-ln: 15 次
+GTV-T-pv: 2 次
+GTV-T-PV: 1 次
+GTV-T: 15 次
+GTV: 3 次
+FemoralJoint_R: 4 次
+FemoralJoint_L: 4 次
+Femoral-head-R: 13 次
+Femoral-head-L: 13 次
+Corpus-cavernosum: 12 次
+Colon: 17 次
+Cervix-uteri: 1 次
+CTV1-pv: 3 次
+CTV1-PV: 1 次
+CTV1: 16 次
+CTV-pv: 1 次
+CTV: 2 次
+Body: 1 次
+Bladder: 18 次
+Air: 1 次
+
+进程已结束,退出代码0
+
+Bladder
+Femoral
+GTV-ln:
+GTV-T:
+Pelvis
+SmallBowel 大
+
+
+
+image 27 次
+Bladder 27 次
+Pelvis 24 次
+SpinalCord 22 次
+Colon 21 次
+CTV1 20 次
+SmallBowel 20 次
+MM 19 次
+GTV-ln 18 次
+Utethra 18 次
+patient 17 次
+Femoral-head-L 17 次
+Femoral-head-R 17 次
+GTV-T 17 次
+Prostate 16 次
+Corpus-cavernosum 15 次
+PenileBulb 14 次
+Seminal-vesicle 13 次
+PVGTV-ln 9 次
+GTV 8 次
+FemoralJoint_L 8 次
+PVCTV1 8 次
+PVGTV-T 8 次
+FemoralJoint_R 7 次
+Body 6 次
+CTV 5 次
+Rectum 5 次
+PV-Spinal-cord 5 次
+hole 4 次
+Testis 4 次
+PTV 3 次
+PCTV1 3 次
+Uterus 3 次
+CTV1-pv 3 次
+GTV-ln-pv 3 次
+GTV-pv 3 次
+BowelBag 2 次
+CTV1-PV 2 次
+Bone 2 次
+pv_GTV 2 次
+OR 2 次
+Patient 2 次
+Testis-L 2 次
+PV-GTV-T 2 次
+GTV-T-pv 2 次
+PGTV-ln 2 次
+PGTV-T 2 次
+CTVln 2 次
+GTVln 2 次
+plan 2 次
+GTVn 2 次
+CTV-pv 2 次
+Spinal-cord 2 次
+Small-bowel 2 次
+
+进程已结束,退出代码0
+
+
+3276
+3276
+2962
+2962
+5510
+5510
+414
+414
+371
+371
+679
+679
+
+x      y       z
+3690   3333    6189

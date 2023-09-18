@@ -209,12 +209,12 @@ def fit(epoch, model, trainloader, testloader):
     static_dic=model.state_dict()
     res = round(np.mean(epoch_test_iou), 3)
     torch.save(static_dic,
-               './checkpoint/X/{}_train_mIou_{}_test_mIou_{}.pth'.format(epoch, round(np.mean(epoch_iou), 3),
+               './checkpoint/x/{}_train_mIou_{}_test_mIou_{}.pth'.format(epoch, round(np.mean(epoch_iou), 3),
                                                                           round(np.mean(epoch_test_iou), 3)))
 
     # if res >= 0.85 :
     #     print('epoch_test_iou=',res)
-    #     torch.save(static_dic,'./checkpoint/X/{}_train_mIou_{}_test_mIou_{}.pth'.format(epoch,round(np.mean(epoch_iou), 3),round(np.mean(epoch_test_iou), 3)))
+    #     torch.save(static_dic,'./checkpoint/x/{}_train_mIou_{}_test_mIou_{}.pth'.format(epoch,round(np.mean(epoch_iou), 3),round(np.mean(epoch_test_iou), 3)))
     IOU = round(np.mean(epoch_iou), 3)
     test_IOU = round(np.mean(epoch_test_iou), 3)
     print('epoch: ', epoch,
@@ -238,7 +238,7 @@ train_IOU=['IOU']
 test_IOU=['test_IOU']
 
 
-date = str(datetime.datetime.now().strftime('%Y-%m-%d-%X')).replace(":", "-")
+date = str(datetime.datetime.now().strftime('%Y-%m-%d-%x')).replace(":", "-")
 
 for epoch in range(epochs):
     epoch_loss, epoch_acc, epoch_test_loss, epoch_test_acc,epoch_IOU,epoch_test_IOU = fit(epoch,
@@ -255,7 +255,7 @@ for epoch in range(epochs):
 
     filename = date + '_train.txt'
     # out(ans, './' + filename)
-    out(ans,'./checkpoint/X/'+filename)
+    out(ans,'./checkpoint/x/'+filename)
 
 print(test_acc)
 
